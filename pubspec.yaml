@@ -1,0 +1,6 @@
+name: box2dTest
+description: A sample web application
+dependencies:
+  box2d: any
+  browser: any
+  vector_math: any
